@@ -1,0 +1,12 @@
+output
+outputs
+sam_vit_h_4b8939.pth
+__pycache__
+build
+.vscode
+real_robot
+pretrained_weights
+feature-splatting-inria
+dinov2_vits14
+part_level_features
+sam_clip_features
