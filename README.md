@@ -1,6 +1,5 @@
 # Gaussian Splats
-**Efficient Manipulation with 3D Feature Splatting**
-
+[**Efficient Manipulation with 3D Feature Splatting**](https://graspsplats.github.io/)
 ## Installation
 
 1. **Create the environment**
